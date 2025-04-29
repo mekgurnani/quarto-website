@@ -1,0 +1,31 @@
+---
+pagetitle: "Mehak Gurnani | About"
+title: "Mehak Gurnani"
+
+about: 
+  id: hero-heading
+  template: jolla
+  image: assets/headshot.jpeg
+  image-width: 8cm
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/mekgurnani
+      
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mehak-gurnani-344kl/
+      
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0003-9228-2518 
+toc: false
+# format:
+#   html:
+#     theme: flatly
+#     css: styles.css   
+---
+
+Hiya!
+
+Thanks for visiting my website, have a look around to see what I am up to :)
+

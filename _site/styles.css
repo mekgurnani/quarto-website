@@ -1,0 +1,8 @@
+/* css styles */
+.about-image img {
+  width: 180px;   /* or any size you like */
+  height: 180px;
+  border: 10px solid #ccc;  /* optional: thicker/lighter frame */
+  border-radius: 50%;
+  object-fit: cover;
+}
