@@ -1,0 +1,35 @@
+# Quarto build output
+_site/
+
+# Quarto internal files
+.quarto/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project metadata
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Node.js (if using Netlify CLI or extensions)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Logs and cache
+*.log
+.quarto-cache/
+
+# Mac OS and temp files
+*.swp
+.sass-cache/
+*.tmp
+*.bak
+
+# Netlify deploy preview cache
+.netlify/
