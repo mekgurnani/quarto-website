@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+date-modified: last-modified
 ---
 
 
@@ -7,4 +8,6 @@ title: "Projects"
 
 ![](assets/cat_at_work.gif)
 
-_Last updated: {{< .RenderDate format="MMMM d, yyyy" >}}_
+---
+
+_Last updated: {{< meta date-modified >}}_
