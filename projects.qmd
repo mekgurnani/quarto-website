@@ -10,4 +10,4 @@ date-modified: last-modified
 
 ---
 
-_Last updated: {{< meta date-modified >}}_
+
