@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hiya!\nThanks for visiting my website, have a look around to see what I am up to :)"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -10,13 +17,6 @@
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mehak Gurnani",
-    "section": "",
-    "text": "Hiya!\nThanks for visiting my website, have a look around to see what I am up to :)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
     "section": "",
     "text": "Hiya!\nThanks for visiting my website, have a look around to see what I am up to :)"
   }
