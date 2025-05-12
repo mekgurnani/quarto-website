@@ -4,8 +4,10 @@ format: html
 page-layout: full
 ---
 
+```{=html}
 <script>
-  window.location.href = "assets/Resume_MehakG2025.pdf";
+  window.location.href = "assets/Resume_MehakG2025_newest.pdf";
 </script>
+```
 
 <p>If you are not redirected, <a href="assets/Resume_MehakG2025.pdf" target="_blank">click here</a>.</p>
