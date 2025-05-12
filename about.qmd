@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: images/headshot.jpeg
+image: assets/headshot.jpeg
 about: 
   template: jolla
   links: 
@@ -24,4 +24,3 @@ format:
 Hiya!
 
 Thanks for visiting my website, have a look around to see what I am up to :)
-
