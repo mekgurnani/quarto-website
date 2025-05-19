@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hiya!\nThanks for visiting my website, have a look around to see what I am up to :)"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -14,10 +7,31 @@
     "text": "If you are not redirected, click here."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mehak Gurnani",
+    "section": "",
+    "text": "Hiya!\nI’m Mehak, a health data scientist based in London with experience in academia and the MedTech sector. This site highlights my work and projects, applying data analytics and AI to a range of tasks — from storytelling with visualizations to modeling larger, complex datasets."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPlot the Drama\n\n\n\nPython\n\nPlotly\n\nStreamlit\n\nData Visualization\n\nAPIs\n\n\n\nStreamlit app to visualize TV show ratings.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/tvshowratings/index.html",
+    "href": "projects/tvshowratings/index.html",
+    "title": "Plot the Drama",
+    "section": "",
+    "text": "I wanted to build an interactive web app that lets you explore episode-level ratings across seasons for your favorite TV shows.\nBuilt with Streamlit and Plotly, it uses data from the TVMaze API to generate dynamic heatmaps, helping visualize which seasons soared — and which episodes flopped.\nWhether you’re trying to decide where to pick up a long-running series, or just want to settle a debate over which season of Grey’s Anatomy peaked, this tool gives you the insights — without the spoilers.\nLink to the Streamlit app and GitHub repo developed to build this."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mehak Gurnani",
     "section": "",
-    "text": "Hiya!\nThanks for visiting my website, have a look around to see what I am up to :)"
+    "text": "Hiya!\nI’m Mehak, a Data Scientist based in London with experience in academia and the MedTech sector.\nMy academic background includes a BSc in Medical Biosciences and an MSc in Health Data Analytics and Machine Learning, both from Imperial College London.\nThis site highlights my work and projects, applying data analytics and AI to a range of tasks — from storytelling with visualizations to modeling larger, complex datasets.\n\n📄 CV 🧩 Projects 📚 Publications"
   }
 ]

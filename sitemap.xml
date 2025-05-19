@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mekgurnani.github.io/quarto-website/cv.html</loc>
+    <lastmod>2025-05-19T17:31:59.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mekgurnani.github.io/quarto-website/publications.html</loc>
+    <lastmod>2025-05-19T17:31:59.271Z</lastmod>
+  </url>
+  <url>
     <loc>https://mekgurnani.github.io/quarto-website/about.html</loc>
-    <lastmod>2025-05-12T10:02:30.050Z</lastmod>
+    <lastmod>2025-05-19T17:31:59.256Z</lastmod>
   </url>
   <url>
     <loc>https://mekgurnani.github.io/quarto-website/projects.html</loc>
-    <lastmod>2025-05-12T10:02:30.064Z</lastmod>
+    <lastmod>2025-05-19T17:31:59.269Z</lastmod>
   </url>
   <url>
-    <loc>https://mekgurnani.github.io/quarto-website/cv.html</loc>
-    <lastmod>2025-05-12T10:02:30.064Z</lastmod>
+    <loc>https://mekgurnani.github.io/quarto-website/projects/tvshowratings/index.html</loc>
+    <lastmod>2025-05-19T17:31:59.269Z</lastmod>
   </url>
   <url>
     <loc>https://mekgurnani.github.io/quarto-website/index.html</loc>
-    <lastmod>2025-05-12T10:02:30.064Z</lastmod>
+    <lastmod>2025-05-19T17:31:59.269Z</lastmod>
   </url>
 </urlset>
