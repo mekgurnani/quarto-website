@@ -19,13 +19,22 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0009-0003-9228-2518 
 toc: false
-# format:
-#   html:
-#     theme: flatly
-#     css: styles.css   
+format:
+  html:
+    theme: flatly
+    css: styles.css
 ---
 
 Hiya!
 
-Thanks for visiting my website, have a look around to see what I am up to :)
+I’m Mehak, a Data Scientist based in London with experience in academia and the MedTech sector. 
 
+My academic background includes a BSc in [Medical Biosciences](https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/) and an MSc in [Health Data Analytics and Machine Learning](https://www.imperial.ac.uk/study/courses/postgraduate-taught/health-data-analytics/), both from [Imperial College London](https://www.imperial.ac.uk/).
+
+This site highlights my work and projects, applying data analytics and AI to a range of tasks — from storytelling with visualizations to modeling larger, complex datasets.
+
+<div class="d-grid gap-3 col-10 col-sm-6 col-md-4 mx-auto mt-4">
+  <a href="cv.qmd" class="btn btn-outline-primary" role="button">📄 CV</a>
+  <a href="projects.qmd" class="btn btn-outline-primary" role="button">🧩 Projects</a>
+  <a href="publications.qmd" class="btn btn-outline-primary" role="button">📚 Publications</a>
+</div>

@@ -1,0 +1,24 @@
+---
+title: "Plot the Drama"
+description:  "Streamlit app to visualize TV show ratings."
+image: preview.png
+image-alt: App preview
+date-added: 19-05-2025
+categories: 
+  - Python
+  - Plotly
+  - Streamlit
+  - Data Visualization
+  - APIs
+about: 
+  template: marquee
+  # image: preview.png
+---
+
+I wanted to build an interactive web app that lets you explore episode-level ratings across seasons for your favorite TV shows. 
+
+Built with [Streamlit](https://streamlit.io) and [Plotly](https://plotly.com/python/), it uses data from the [TVMaze API](https://www.tvmaze.com/api) to generate dynamic heatmaps, helping  visualize which seasons soared — and which episodes flopped.
+
+Whether you’re trying to decide where to pick up a long-running series, or just want to settle a debate over which season of [Grey’s Anatomy](https://www.imdb.com/title/tt0413573/) peaked, this tool gives you the insights — without the spoilers.
+
+Link to the [Streamlit app](http://tvshowratings.streamlit.app) and [GitHub repo](https://github.com/mekgurnani/tvshow_ratings/tree/main) developed to build this. 

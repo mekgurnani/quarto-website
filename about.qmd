@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Mehak Gurnani"
 image: assets/headshot.jpeg
 about: 
   template: jolla
@@ -23,4 +23,13 @@ format:
 
 Hiya!
 
-Thanks for visiting my website, have a look around to see what I am up to :)
+I’m Mehak, a health data scientist based in London with experience in academia and the MedTech sector. This site highlights my work and projects, applying data analytics and AI to a range of tasks — from storytelling with visualizations to modeling larger, complex datasets.
+
+
+
+<!-- ## Education -->
+
+<!-- Imperial College London, United Kingdom -->
+<!-- MSc in Health Data Analytics | Sept 2019 - July 2022 -->
+
+<!-- BSc in Medical Biosciences | Sept 2022 - October 2023 -->

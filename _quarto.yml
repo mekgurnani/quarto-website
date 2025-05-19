@@ -6,15 +6,18 @@ website:
   navbar: 
     pinned: true
     left:
-      - text: About
-        icon: person-circle
-        href: index.qmd
+      # - text: About
+      #   icon: person-circle
+      #   href: about.qmd
       - text: CV
         icon: file-earmark-text-fill
         href: cv.qmd
       - text: Projects
         icon: puzzle-fill
         href: projects.qmd
+      - text: Publications
+        icon: bi-journal-bookmark
+        href: publications.qmd
         
     right: 
       - icon: github

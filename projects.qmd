@@ -1,13 +1,14 @@
 ---
 title: "Projects"
-date-modified: last-modified
+listing:
+  contents: projects
+  sort: "date-added desc"
+  type: grid
+  image-height: 260px
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+comments: false
 ---
-
-
-## Working on adding my projects here!
-
-![](assets/cat_at_work.gif)
-
----
-
-

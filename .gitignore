@@ -29,5 +29,4 @@ yarn.lock
 *.tmp
 *.bak
 
-# Netlify deploy preview cache
-.netlify/
+/.quarto/
